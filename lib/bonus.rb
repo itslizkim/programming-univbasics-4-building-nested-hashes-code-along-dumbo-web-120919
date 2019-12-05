@@ -1,6 +1,6 @@
 def bonus
-bonus[:montague][:hero][:status] = "dead"
-bonus[:capulet][:heroine][:status] = "dead"
+epic_tradegy[:montague][:hero][:status] = "dead"
+epic_tradegy[:capulet][:heroine][:status] = "dead"
 
   epic_tragedy = {
    :montague => {
